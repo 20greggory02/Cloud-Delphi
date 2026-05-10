@@ -218,3 +218,4 @@ c = np.array([0.61, 0.30, 1.00, 0.22, 1.09, 1.50, 1.95])       # ForegoingEntrop
 
 Round = CloudDelphi(a, b, c)
 print(Round)
+plt.show()
